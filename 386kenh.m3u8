@@ -5,9 +5,9 @@ http://p1.cvtv.xyz/vtv1?token=live
 https://api.wintv.me/360/3/index.m3u8
 #EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://api.wintv.me/360/108/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 Tiếng Tày
 https://api.wintv.me/360/110/index.m3u8
 #EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ
 https://api.wintv.me/360/157/index.m3u8
@@ -89,7 +89,7 @@ https://api.wintv.me/360/192/index.m3u8
 https://api.wintv.me/360/9/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://api.wintv.me/360/193/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+#EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
 http://p1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
